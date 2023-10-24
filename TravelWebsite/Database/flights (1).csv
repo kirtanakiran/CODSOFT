@@ -1,0 +1,10 @@
+id,source,destination,price,time,airline,duration
+1,Bangalore,Paris,"1,50,000",14:30:00,"Air France","7 hrs"
+2,"New York",London,"80,000",13:10:00,"British Airways","6 hr 50 mins"
+3,Bnagalore,Delhi,"5,000",09:00:00,"Jet Airways","2 hrs 50 mins"
+4,Mumbai,Barcelona,"1,45,000",22:40:00,Etihad,"17hr 10 mins"
+5,Bangalore,Bali,"70,000",20:25:00,"Malaysian Airlines","9 hrs"
+6,Chennai,Dubai,"35,000",22:10:00,Etihad,4hrs
+7,Mumbai,Chennai,"2,678",15:20,Indigo,2hrs
+8,Kolkata,Hyderabad,"4,879",13:10:20,"Jet Airways2hrs 5 mins",
+9,Hyderabad,Maldives,"10,678",16:05:10,Indigo,"2hrs 40 mins"

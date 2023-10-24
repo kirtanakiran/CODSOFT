@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+
+.header{
+    border: 1px solid black;
+    height:100vh;
+    background-image: url(imagestravel/travel1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    color: #ffffff;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    color: black;
+    display: block;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 100px;
+    text-align:center;
+    padding: auto;
+}
+
+.text{
+
+    /*border:solid 1px #d60808;*/
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
